@@ -1,0 +1,43 @@
+*{
+    padding:0;
+    margin:0;
+    font-family: 'Cardo', serif;
+}
+.backImg{
+width:auto;
+height:100vh;
+background-image:url('backyy.png');
+display: flex;
+background-size: cover;
+align-items: center;
+justify-content: center;
+color:antiquewhite;
+text-align: center;
+}
+.profile{
+    width:300px;
+    background-color: rgba(0,0,0,0.4);
+    padding:30px;
+    border-radius:20%;
+}
+.imgtext h2{
+font-size: 2em;
+font-weight: 0;
+margin: bottom 7px;
+}
+.imgtext h3{
+    font-size: 1.4em;
+    font-weight: 500;
+    margin: bottom 20px;
+    }
+    .imgtext{
+    margin-bottom: 20px;
+    }
+img{
+    height: 250px;
+    border-radius: 70%;
+    margin-bottom:0px;
+}
+i{
+    color:white;
+}
